@@ -1,4 +1,7 @@
-package com.example.courier;
+package courier;
+import com.example.courier.CourierAssertions;
+import com.example.courier.CourierClient;
+import com.example.courier.CourierGenerator;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.ValidatableResponse;
 import org.junit.After;

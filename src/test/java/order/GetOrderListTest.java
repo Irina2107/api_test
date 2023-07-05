@@ -1,5 +1,7 @@
-package com.example.order;
+package order;
 
+import com.example.order.OrderAssertions;
+import com.example.order.OrderClient;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.ValidatableResponse;
 import org.junit.Test;

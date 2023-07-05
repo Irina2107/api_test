@@ -1,8 +1,8 @@
-package order;
+package com.example.order;
 
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
-import Client;
+import com.example.Client;
 
 public class OrderClient extends Client {
     static final String ORDER_API = "/orders";

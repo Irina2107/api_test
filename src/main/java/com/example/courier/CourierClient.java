@@ -1,4 +1,5 @@
-package courier;
+package com.example.courier;
+import com.example.Client;
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
 

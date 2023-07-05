@@ -1,4 +1,4 @@
-package order;
+package com.example.order;
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
 

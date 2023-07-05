@@ -1,4 +1,8 @@
-package com.example.order;
+package order;
+import com.example.order.Order;
+import com.example.order.OrderAssertions;
+import com.example.order.OrderClient;
+import com.example.order.OrderTrack;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.ValidatableResponse;
 import com.github.javafaker.Faker;
